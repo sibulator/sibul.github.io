@@ -1,2 +1,2 @@
 #!/bin/bash
-dpkg-deb -bZgzip debs /
+dpkg-deb -bZgzip debs
