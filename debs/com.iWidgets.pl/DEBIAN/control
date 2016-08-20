@@ -1,0 +1,12 @@
+Package: com.WidgetiMini.sample
+Name: Widget iMini PL
+Version: 1.0
+Section: iWidget
+Maintainer:  Sibul <bastek.n@gmail.com>
+Depends: iWidget
+Architecture: iphoneos-arm
+Description: Polska wersja językowa 9.3.3.
+Author: Sibul <bastek.n@gmail.com
+Sponsor: Sibul <brak>
+
+
